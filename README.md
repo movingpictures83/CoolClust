@@ -1,0 +1,2 @@
+# CoolClust
+New clustering algorithm
